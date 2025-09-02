@@ -83,7 +83,7 @@ API de uma aplicação no estilo **GymPass** desenvolvida em **Node.js**, utiliz
 ### Passos
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/gympass-style-api.git
+git clone https://github.com/henrylsilveira/03-api-solid.git
 
 # Entre na pasta do projeto
 cd gympass-style-api
@@ -99,3 +99,4 @@ npx prisma migrate dev
 
 # Execute o projeto em modo desenvolvimento
 npm run dev
+
